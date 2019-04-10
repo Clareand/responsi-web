@@ -32,7 +32,8 @@ function errordbHandle(e) {
 var tabel = document.getElementById('tabel-obat'),
     kode_obat = document.getElementById('kode_obat'),
     nama_obat = document.getElementById('nama_obat'),
-    harga_obat = document.getElementById('harga_obat');
+    harga_obat = document.getElementById('harga_obat'),
+    form = document.getElementById('form-obat');
 
     //menambahkan baris
 
